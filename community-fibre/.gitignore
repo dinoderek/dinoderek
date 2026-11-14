@@ -1,5 +1,0 @@
-# Never commit these: session_state.json holds live auth cookies,
-# and out/ holds downloaded bills and screenshots of your account.
-out/
-*.pdf
-.env
